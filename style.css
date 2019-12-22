@@ -1,7 +1,7 @@
 p {
   font-family: "Times New Roman", Times, serif;
   font-size: 40px;
-  color:red;
+  color: grey;
   text-align: center;
   /* animation-name: slidein;
   animation-duration: 4s;
@@ -22,4 +22,3 @@ p {
     width: 100%;
   }
 }
-
