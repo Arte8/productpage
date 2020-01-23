@@ -1,7 +1,7 @@
 p {
   font-family: "Comic Sans MS", cursive, sans-serif;
-  font-size: 68px;
-  color: grey;
+  font-size: 75px;
+  color: black;
   text-align: center;
   /* animation-name: slidein;
   animation-duration: 4s;
@@ -11,7 +11,7 @@ p {
   animation-name: slidein;
 }
 h1 {
-  color: grey;
+  color: black;
 }
 h2 {
   color: grey;
